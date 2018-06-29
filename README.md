@@ -4,6 +4,7 @@ A python library built to empower developers to build applications and systems w
 An <b>AI Commons</b> project <a href="https://commons.specpal.science" >https://commons.specpal.science </a>
 Developed and Maintained by [Moses Olafenwa](https://twitter.com/OlafenwaMoses) and [John Olafenwa](https://twitter.com/johnolafenwa), brothers, creators of [TorchFusion](https://github.com/johnolafenwa/TorchFusion)
 and Authors of [Introduction to Deep Computer Vision](https://john.specpal.science/deepvision)
+https://github.com/OlafenwaMoses/ImageAI
 <hr>
 
 Built with simplicity in mind, <b>ImageAI</b> 
